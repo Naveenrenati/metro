@@ -1,0 +1,17 @@
+xgboost==1.6.1
+Flask
+gunicorn
+itsdangerous
+Jinja2
+kiwisolver
+MarkupSafe
+matplotlib
+numpy
+pandas
+scikit-learn
+sklearn
+threadpoolctl
+Werkzeug
+requests
+joblib
+jsonify
